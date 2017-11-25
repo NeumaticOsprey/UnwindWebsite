@@ -1,0 +1,38 @@
+body{
+
+}
+#divmaster{
+	width: 70%;
+	height: 500px;
+	margin-left: 15%;
+	
+}
+#div1 {
+	width: 30%;
+	border: 1px solid black;
+	margin-right: 15%;
+
+	height: 400px;
+	float: right;
+}
+#div2 {
+	width: 30%;
+	border: 1px solid black;
+
+	height: 400px;
+	margin-left: 15%;
+	float: left;
+	
+}
+h1{
+	width: 70%;
+	border: 1px solid black;
+	margin-left:15%;
+	float:top;
+}
+nav{
+	width: 70%;
+	border: 1px solid black;
+	padding: 25px;
+	margin-left: 15%;
+}
